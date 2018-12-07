@@ -1,8 +1,4 @@
----
-layout: page
-mathjax: true
-permalink: /assignments2018/assignment1/
----
+# Assignment 1
 
 In this assignment you will practice putting together a simple image classification pipeline, based on the k-Nearest Neighbor or the SVM/Softmax classifier. The goals of this assignment are as follows:
 
@@ -35,8 +31,7 @@ cd cs231n/datasets
 After you have the CIFAR-10 data, you should start the IPython notebook server from the
 `assignment1` directory, with the `jupyter notebook` command. (See the [Google Cloud Tutorial](http://cs231n.github.io/gce-tutorial/) for any additional steps you may need to do for setting this up, if you are working remotely)
 
-If you are unfamiliar with IPython, you can also refer to our
-[IPython tutorial](/ipython-tutorial).
+If you are unfamiliar with IPython, you can also refer to our [IPython tutorial](/ipython-tutorial).
 
 ### Some Notes
 **NOTE 1:** This year, the `assignment1` code has been tested to be compatible with python version `3.6` (it may work with other versions of `3.x`, but we won't be officially supporting them). You will need to make sure that during your virtual environment setup that the correct version of `python` is used. You can confirm your python version by (1) activating your virtualenv and (2) running `which python`.
@@ -96,5 +91,5 @@ cd DEST_PATH
 
 # Run the script to actually submit the assignment
 /afs/ir/class/cs231n/submit
-```
+ ```
 Once you run the submit script, simply follow the on-screen prompts to finish submitting the assignment on AFS. If successful, you should see a "SUBMIT SUCCESS" message output by the script.
