@@ -1,4 +1,7 @@
+# Module 0: Setup Instructions
+
 ## Setup
+
 You can work on the assignment in one of two ways: locally on your own machine, or on a virtual machine on Google Cloud. 
 
 ### Working remotely on Google Cloud (Recommended)
