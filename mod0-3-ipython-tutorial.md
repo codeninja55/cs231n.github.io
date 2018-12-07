@@ -1,4 +1,4 @@
-# Module 0: iPython Notebook Tutorial
+## iPython Notebook Tutorial
 
 ***(Note: some of the screenshots here may be out-of-date. However, this should still prove
 useful as a quick intro, and for the general menu layout, etc.)***

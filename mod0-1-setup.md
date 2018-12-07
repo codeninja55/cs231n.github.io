@@ -1,4 +1,4 @@
-# Module 0: Setup Instructions
+# Module 0: Preparation
 
 ## Setup
 

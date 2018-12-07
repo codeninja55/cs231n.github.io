@@ -1,7 +1,9 @@
-# Module 0: Google Cloud Tutorial
+## Google Cloud Tutorial
 
-## BEFORE WE BEGIN ##
-### BIG REMINDER: Make sure you stop your instances! ###
+**BEFORE WE BEGIN**
+
+**BIG REMINDER: Make sure you stop your instances!**
+
 (We know you won't read until the very bottom once your assignment is running, so we are printing this at the top too since it is ***super important***)
 
 Don't forget to ***stop your instance*** when you are done (by clicking on the stop button at the top of the page showing your instances), otherwise you will ***run out of credits*** and that will be very sad. :( 

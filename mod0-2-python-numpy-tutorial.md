@@ -1,4 +1,4 @@
-# Module 0: Python Numpy Tutorial
+## Python Numpy Tutorial
 
 This tutorial was contributed by [Justin Johnson](http://cs.stanford.edu/people/jcjohns/).
 
